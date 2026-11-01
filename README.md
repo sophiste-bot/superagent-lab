@@ -9,11 +9,11 @@ Editing this file is safe: nothing here is built or deployed.
 
 ## Known typos (left in place on purpose)
 
-- We recieve requests from many diferent clients every day.
-- The deploy step is seperate from the build step.
-- This sentence has teh words in the wrong order.
-- Occured errors are logged to stdout and to the local file.
-- Please definately read the section below before continuing.
+- We receive requests from many different clients every day.
+- The deploy step is separate from the build step.
+- This sentence has the words in the wrong order.
+- Occurred errors are logged to stdout and to the local file.
+- Please definitely read the section below before continuing.
 
 ## Notes
 
